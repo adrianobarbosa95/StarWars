@@ -3,4 +3,4 @@ export const environments = {
 };
 
  
-  export const API_PATH = "http://localhost:3000/funcionarios";
+  export const API_PATH = "http://localhost:3000/personagens";
